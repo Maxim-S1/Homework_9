@@ -6,7 +6,7 @@
 Console.Write("Введите значение М: ");
 int M = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите значение М: ");
+Console.Write("Введите значение N: ");
 int N = Convert.ToInt32(Console.ReadLine());
 
 string NumbersString(int M, int N)
